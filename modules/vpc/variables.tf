@@ -5,9 +5,9 @@ variable "vpc_cidr" {
 }
 
 variable "vpc_inst_tenancy" {
-  default = "defaul"
+  default = "default"
 }
 
 variable "vpc_tags_name" {
-  default = "Dev-vpv"
+  default = "Dev-vpc"
 }
